@@ -4,7 +4,7 @@
 
 
 ## I invite you to view my portfolio.
-- [Portfolio](https://sb-my-portfolio.netlify.app/): This is my portfolio, where you could know more about me, my professional career and my major projects.
+- [Portfolio](https://sb-my-portfolio.netlify.app/) This is my portfolio, where you could know more about me, my professional career and my major projects.
 
 
 
