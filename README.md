@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian Beller</h1>
 <h3 align="center">A passionate Junior QA, web developer, and Data Scientist from Bolivia</h3>
- <h3 align="center">📚 Currently, I am in my 8th semester of Systems Engineering.</h3>
+ <h3 align="center">📚 Currently, I am in my 9th semester of Systems Engineering.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
