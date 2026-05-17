@@ -29,111 +29,111 @@ As a dedicated professional, I am committed to developing robust, scalable solut
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="65" height="65" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="65" height="65" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" width="65" height="65" alt="C#" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="65" height="65" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=scala" width="65" height="65" alt="Scala" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="65" height="65" alt="Scala" />
       <br>Scala
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="65" height="65" alt="JavaScript" />
       <br>JavaScript
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65" height="65" alt="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="65" height="65" alt="TypeScript" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="65" height="65" alt="Angular" />
       <br>Angular
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="65" height="65" alt="React" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="65" height="65" alt="Express" />
       <br>Express
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3" />
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="65" height="65" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="SQLite" />
       <br>SQLite
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="65" height="65" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="65" height="65" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
       <br>Docker
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="65" height="65" alt="Jenkins" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="65" height="65" alt="Jenkins" />
       <br>Jenkins
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code" />
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" height="65" alt="AWS" />
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="65" height="65" alt="Linux" />
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ IDEA" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="65" height="65" alt="IntelliJ IDEA" />
       <br>IntelliJ IDEA
     </td>
   </tr>
@@ -144,45 +144,45 @@ As a dedicated professional, I am committed to developing robust, scalable solut
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=playwright" width="48" height="48" alt="Playwright" />
+      <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" />
       <br>Playwright
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium" />
       <br>Selenium
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" />
+      <img src="https://www.cypress.io/images/layouts/cypress-logo.png" width="48" height="48" alt="Cypress" />
       <br>Cypress
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
       <br>Jest
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mocha" width="48" height="48" alt="Mocha" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-plain.svg" width="48" height="48" alt="Mocha" />
       <br>Mocha
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jmeter" width="48" height="48" alt="JMeter" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jmeter/jmeter-original.svg" width="48" height="48" alt="JMeter" />
       <br>JMeter
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <img src="https://www.postman.com/img/v2/logo-glyph.png" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sonarqube" width="48" height="48" alt="SonarQube" />
+      <img src="https://www.sonarsource.com/wp-content/uploads/SonarQube-Square-Icon.png" width="48" height="48" alt="SonarQube" />
       <br>SonarQube
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub Actions" />
       <br>GitHub Actions
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cucumber" width="48" height="48" alt="Cucumber" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" width="48" height="48" alt="Cucumber" />
       <br>Cucumber
     </td>
   </tr>
@@ -193,45 +193,45 @@ As a dedicated professional, I am committed to developing robust, scalable solut
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
       <br>Pandas
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
       <br>NumPy
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=scikitlearn" width="48" height="48" alt="Scikit-Learn" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn" />
       <br>Scikit-Learn
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
       <br>TensorFlow
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
       <br>PyTorch
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
       <br>Jupyter
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="AI Tools" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="48" height="48" alt="OpenAI" />
       <br>AI Tools
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub Copilot" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub Copilot" />
       <br>GitHub Copilot
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Data Tools
     </td>
   </tr>
