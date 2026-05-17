@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+SDET+%7C+Data+Scientist;Full+Stack+Developer;Systems+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+SDET+%7C+Data+Scientist;Full+Stack+Developer+%7C+QA+Engineer;Computer+Science+Graduate" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -14,9 +14,9 @@
 <br>
 
 <p align="justify">
-I am a passionate QA Engineer and SDET with a strong foundation in software testing, automation, and data science. Currently in my 9th semester of Systems Engineering at a top Bolivian university. I am committed to building robust, scalable testing solutions and leveraging data-driven insights to improve software quality.
+I am a passionate Software Engineer and SDET with a strong foundation in software testing, automation, and data science. I have successfully graduated with a Bachelor's degree in Computer Science. My expertise spans test automation, performance testing, full-stack web development, and data analysis. I am proficient in modern testing frameworks like Playwright and Selenium, and have hands-on experience with CI/CD pipelines, cloud technologies, and machine learning applications.
 
-My expertise spans test automation, performance testing, full-stack web development, and data analysis. I am proficient in modern testing frameworks like Playwright and Selenium, and have hands-on experience with AI-powered development tools. I am always eager to learn and contribute to innovative projects that make a real impact.
+As a dedicated professional, I am committed to developing robust, scalable solutions and continuously improving code quality through comprehensive testing strategies.
 </p>
 
 <br>
@@ -121,20 +121,20 @@ My expertise spans test automation, performance testing, full-stack web developm
       <br>Jenkins
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/jmeter.svg" width="48" height="48" alt="JMeter" />
-      <br>JMeter
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
       <br>VS Code
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
       <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ IDEA" />
+      <br>IntelliJ IDEA
     </td>
   </tr>
 </table>
@@ -277,7 +277,7 @@ My expertise spans test automation, performance testing, full-stack web developm
 
 ## Connect with Me
 
-I am always excited to connect with fellow developers, QA engineers, and cybersecurity enthusiasts. Feel free to reach out through any of the platforms below:
+I am always excited to connect with fellow developers, engineers, and technology enthusiasts. Feel free to reach out through any of the platforms below:
 
 <div align="center">
 
