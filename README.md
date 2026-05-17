@@ -148,12 +148,12 @@ As a dedicated professional, I am committed to developing robust, scalable solut
       <br>Playwright
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium" />
-      <br>Selenium
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="48" height="48" alt="Cypress" />
+      <br>Cypress
     </td>
     <td align="center" width="96">
-      <img src="https://www.cypress.io/images/layouts/cypress-logo.png" width="48" height="48" alt="Cypress" />
-      <br>Cypress
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium" />
+      <br>Selenium
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
@@ -165,20 +165,20 @@ As a dedicated professional, I am committed to developing robust, scalable solut
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jmeter/jmeter-original.svg" width="48" height="48" alt="JMeter" />
+     <td align="center" width="96">
+      <img src="https://jmeter.apache.org/images/jmeter_square.svg" width="48" height="48" alt="JMeter" />
       <br>JMeter
     </td>
     <td align="center" width="96">
-      <img src="https://www.postman.com/img/v2/logo-glyph.png" width="48" height="48" alt="Postman" />
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-    <td align="center" width="96">
-      <img src="https://www.sonarsource.com/wp-content/uploads/SonarQube-Square-Icon.png" width="48" height="48" alt="SonarQube" />
-      <br>SonarQube
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub Actions" />
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="48" height="48" alt="SonarQube" />
+  <br>SonarQube
+</td>
+   <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" />
       <br>GitHub Actions
     </td>
     <td align="center" width="96">
@@ -217,10 +217,6 @@ As a dedicated professional, I am committed to developing robust, scalable solut
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
       <br>Jupyter
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" width="48" height="48" alt="OpenAI" />
-      <br>AI Tools
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub Copilot" />
