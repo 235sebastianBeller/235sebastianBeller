@@ -250,6 +250,7 @@ As a dedicated professional, I am committed to developing robust, scalable solut
 I am always excited to connect with fellow developers, engineers, and technology enthusiasts. Feel free to reach out through any of the platforms below:
 
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/Sebastian_Beller-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianbeller/)
 [![GitHub](https://img.shields.io/badge/235sebastianBeller-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/235sebastianBeller)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianbeller76@gmail.com)
