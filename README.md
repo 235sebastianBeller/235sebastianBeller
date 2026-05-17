@@ -144,15 +144,15 @@ As a dedicated professional, I am committed to developing robust, scalable solut
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" />
+      <img src="https://skillicons.dev/icons?i=playwright" width="48" height="48" alt="Playwright" />
       <br>Playwright
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="48" height="48" alt="Selenium" />
+      <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
       <br>Selenium
     </td>
     <td align="center" width="96">
-      <img src="https://www.cypress.io/images/layouts/cypress-logo.png" width="48" height="48" alt="Cypress" />
+      <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" />
       <br>Cypress
     </td>
     <td align="center" width="96">
@@ -160,29 +160,29 @@ As a dedicated professional, I am committed to developing robust, scalable solut
       <br>Jest
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mochajs.svg" width="48" height="48" alt="Mocha" />
+      <img src="https://skillicons.dev/icons?i=mocha" width="48" height="48" alt="Mocha" />
       <br>Mocha
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/jmeter.svg" width="48" height="48" alt="JMeter" />
+      <img src="https://skillicons.dev/icons?i=jmeter" width="48" height="48" alt="JMeter" />
       <br>JMeter
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sonarsource.svg" width="48" height="48" alt="SonarQube" />
+      <img src="https://skillicons.dev/icons?i=sonarqube" width="48" height="48" alt="SonarQube" />
       <br>SonarQube
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub Actions" />
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
       <br>GitHub Actions
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cucumber.svg" width="48" height="48" alt="Cucumber" />
+      <img src="https://skillicons.dev/icons?i=cucumber" width="48" height="48" alt="Cucumber" />
       <br>Cucumber
     </td>
   </tr>
@@ -201,7 +201,7 @@ As a dedicated professional, I am committed to developing robust, scalable solut
       <br>NumPy
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=scikit" width="48" height="48" alt="Scikit-Learn" />
+      <img src="https://skillicons.dev/icons?i=scikitlearn" width="48" height="48" alt="Scikit-Learn" />
       <br>Scikit-Learn
     </td>
     <td align="center" width="96">
@@ -219,11 +219,11 @@ As a dedicated professional, I am committed to developing robust, scalable solut
       <br>Jupyter
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" width="48" height="48" alt="Claude Code" />
-      <br>Claude Code
+      <img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="AI Tools" />
+      <br>AI Tools
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="48" height="48" alt="GitHub Copilot" />
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub Copilot" />
       <br>GitHub Copilot
     </td>
     <td align="center" width="96">
@@ -231,41 +231,11 @@ As a dedicated professional, I am committed to developing robust, scalable solut
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/plotly.svg" width="48" height="48" alt="Plotly" />
-      <br>Plotly
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Data Tools
     </td>
   </tr>
 </table>
-
----
-
-## GitHub Stats
-
-<details>
-  <summary>GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/235sebastianBeller">
-    <img alt="Sebastian's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=235sebastianBeller&show_icons=true&count_private=true&theme=dark" />
-  </a>
-  <a href="https://github.com/235sebastianBeller">
-    <img alt="Sebastian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=235sebastianBeller&langs_count=10&layout=compact&theme=dark" />
-  </a>
-  <br/>
-</details>
-
-<details>
-  <summary>GitHub Activity Graph</summary>
-  <br/>
-  <a href="https://github.com/235sebastianBeller">
-    <img alt="Sebastian's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=235sebastianBeller&bg_color=1f1f1f&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" />
-  </a>
-</details>
-
-<details>
-  <summary>Profile Views</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=235sebastianBeller&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-</details>
 
 ---
 
