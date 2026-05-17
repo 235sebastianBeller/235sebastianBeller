@@ -144,7 +144,7 @@ As a dedicated professional, I am committed to developing robust, scalable solut
   <tr>
     <td align="center" width="96">
       <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" />
-      <br>Playwright
+      <br>Playwright / Playwright - MCP
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="48" height="48" alt="Cypress" />
@@ -184,6 +184,12 @@ As a dedicated professional, I am committed to developing robust, scalable solut
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" width="48" height="48" alt="Cucumber" />
       <br>Cucumber
     </td>
+      </tr>
+    <tr>
+      <td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/anthropic" width="48" height="48" alt="Claude Code" />
+  <br>Claude Code
+</td>
   </tr>
 </table>
 
