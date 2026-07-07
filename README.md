@@ -240,12 +240,6 @@ As a dedicated professional, I am committed to developing robust, scalable solut
 
 ---
 
-## GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=235sebastianBeller&theme=onedark&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## Connect with Me
 
 I am always excited to connect with fellow developers, engineers, and technology enthusiasts. Feel free to reach out through any of the platforms below:
